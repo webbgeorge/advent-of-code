@@ -1,3 +1,3 @@
 module github.com/webbgeorge/advent-of-code
 
-go 1.13
+go 1.22
